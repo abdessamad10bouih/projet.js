@@ -13,63 +13,69 @@ Exemple de fonction pure et impure, avec une fonction fléchée pure pour ajoute
 Exercice 4
 Manipulation de tableaux avec la méthode splice(). Création de fonctions pour insérer, supprimer et mettre à jour des éléments dans un tableau d'inscriptions.
 
-Exercice 5 : Quiz :
+Exercice 5 : 
 
+Quiz avec réponses
+
+Q1: À l’intérieur d’une page HTML, on met JavaScript dans :
 Réponse : B. <script>
-La vraie syntaxe pour changer le contenu de l’élément <span id=’span1’>test</span> est :
+
+Q2 : Quelle est la vraie syntaxe pour changer le contenu de l’élément
+suivant <span id=’span1’>test</span>.
 
 Réponse : A. document.getElementById('span1').innerHTML='salut monde'
 L’emplacement de JavaScript peut être :
 
+Q3: Quelle est l’emplacement de Java Script
 Réponse : C. Les deux
-La bonne syntaxe pour faire référence à un script externe script1.js est :
 
+Q4 : Quelle la bonne syntaxe pour faire référence à un script externe script1.js
 Réponse : C. <script src='script1.js'>
-Un script externe doit contenir le tag <script> :
 
+Q5 : Un script externe doit contenir le tag <script>
 Réponse : A. Oui
-Pour créer une fonction en JavaScript, on utilise :
 
+Q6: Comment créer une fonction en javascript
 Réponse : B. function function1()
-Pour écrire une condition if, on utilise :
 
+Q7 : Comment écrire la condition if
 Réponse : C. if(x==7)
-Pour écrire une condition où x n’est pas égal à 7 :
 
+Q8: Comment écrire la condition x n’est pas égal à 7
 Réponse : D. if (x != 7)
-La bonne syntaxe de la boucle while est :
 
+Q9: La bonne syntaxe de la boucle while
 Réponse : B. while (k <= 20)
-La bonne syntaxe de la boucle for est :
 
+Q10 : La bonne syntaxe de for
 Réponse : C. for(j=0; j<=10; j++)
-La syntaxe correcte pour créer un tableau est :
 
+Q11 : Quelle est syntaxe correcte pour créer un Array
 Réponse : B. const fruits = ['pomme', 'orange', 'banane']
-L'événement déclenché lorsqu’on clique sur un élément HTML est :
 
+Q12: Quel évènement est déclenché si on clique sur un élément HTML
 Réponse : B. onclick
-JavaScript est sensible à la casse :
 
+Q13: Est-ce que javascript est sensible à la casse
 Réponse : A. Oui
-Le code numbers.filter(n => n >= 5) affiche :
 
+Q14:
 Réponse : D. [7, 5, 9, 10]
-Le code numbers.find(n => n >= 5) affiche :
 
+Q15:
 Réponse : B. 7
-Le code numbers.find(n => n == 6) affiche :
 
+Q16:
 Réponse : D. undefined
-Le code numbers.map(n => n * 2) affiche :
 
+Q17:
 Réponse : C. [6, 14, 4, 10, 18, 8, 20]
-Le code numbers.reduce((total, n) => total + n, 0) affiche :
 
+Q18:
 Réponse : A. 40
-Le code avec salutation("rami", hello) et salutation("fahmi", salut) affiche :
 
+Q19:
 Réponse : B. hello RAMI et salut FAHMI
-Le code avec setInterval(incremente, 1000) affiche :
 
+Q20:
 Réponse : B. Affiche des valeurs de 1 à 59 puis recommence de 0 à 59 plusieurs fois
