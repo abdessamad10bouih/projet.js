@@ -1,6 +1,4 @@
 Projet Js
-Description
-MonProjet est une application web développée en utilisant JavaScript ES6, mettant en œuvre plusieurs fonctionnalités de manipulation des tableaux et de programmation fonctionnelle. Ce projet comprend des exercices qui mettent en pratique des concepts comme map(), filter(), et les fonctions fléchées.
 
 Fonctionnalités
 Exercice 1
@@ -15,8 +13,7 @@ Exemple de fonction pure et impure, avec une fonction fléchée pure pour ajoute
 Exercice 4
 Manipulation de tableaux avec la méthode splice(). Création de fonctions pour insérer, supprimer et mettre à jour des éléments dans un tableau d'inscriptions.
 
-Exercice 5 : Quiz avec réponses
-À l’intérieur d’une page HTML, on met JavaScript dans :
+Exercice 5 : Quiz :
 
 Réponse : B. <script>
 La vraie syntaxe pour changer le contenu de l’élément <span id=’span1’>test</span> est :
@@ -76,11 +73,3 @@ Réponse : B. hello RAMI et salut FAHMI
 Le code avec setInterval(incremente, 1000) affiche :
 
 Réponse : B. Affiche des valeurs de 1 à 59 puis recommence de 0 à 59 plusieurs fois
-Prérequis
-Node.js
-Un navigateur moderne
-Installation
-Clonez ce dépôt :
-
-git clone https://github.com/username/projetjs.git
-Ouvrez le projet dans votre éditeur de code préféré.
